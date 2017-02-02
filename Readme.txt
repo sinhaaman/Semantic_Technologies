@@ -1,4 +1,4 @@
-This contains the assignment of the course Symantic Technologies taught at UNIBZ,Bolzano in session 2016-2017.
+This contains the project for the course Semantic Technologies taught at UNIBZ,Bolzano in session 2016-2017.
 
 Lecturer : Enrico Franconi & Guohui Xiao
 Author : Aman Sinha
